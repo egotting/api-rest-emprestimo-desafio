@@ -1,0 +1,6 @@
+@api_rest_emprestimo_desafio_HostAddress = http://localhost:5159
+
+GET {{api_rest_emprestimo_desafio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
